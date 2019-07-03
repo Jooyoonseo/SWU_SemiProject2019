@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         //오늘 컨디션 중간
 
         //커밋 및 푸시 테스트
-        
+
     }
 }
